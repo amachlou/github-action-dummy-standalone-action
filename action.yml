@@ -2,6 +2,7 @@ name: Dummy GH Publishable Action
 description: > 
             This is just Dummy GH Publishable Action to get my hands dirty with this feature 
             <i>no worries I will clean them afterwards to eat the fruits of this effort</i>.
+            
 on: push
 jobs:
   publish:
