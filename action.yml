@@ -9,4 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Simple Greeting msg
-        run: echo `Hello World, we are currently in: $(pwd)`
+        run: echo `Hello World`
+        # run: echo `Hello World, we are currently in: $(pwd)`
